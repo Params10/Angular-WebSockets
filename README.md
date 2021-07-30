@@ -18,4 +18,4 @@ client.
 
 1. Run `npm start` to start the server
 
-1. Navigate to `http://localhost:8080` to view the app
+1. Navigate to `https://vigorous-ardinghelli-ab6d98.netlify.app` to view the app

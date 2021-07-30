@@ -55,4 +55,4 @@ function startTimer() {
 }
 
 server.listen(8080);
-console.log('Visit http://localhost:8080 in your browser');
+console.log('Visit https://vigorous-ardinghelli-ab6d98.netlify.app in your browser');
