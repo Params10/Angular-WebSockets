@@ -17,7 +17,7 @@ export class DataService {
   observer: Observer<number>;
 
   getQuotes() : Observable<number> {
-    this.socket = socketIo('https://vigorous-ardinghelli-ab6d98.netlify.app');
+    this.socket = socketIo('https://determined-brattain-5997b4.netlify.app');
 
     this.socket.on('data', (res) => {
       this.observer.next(res.data);
